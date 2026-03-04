@@ -1,0 +1,13 @@
+testing_data = [
+    {"team": "Ferrari", "drivers": ["Charles Leclerc", "Lewis Hamilton"], "fastest_lap": 91.992, "total_laps": 754, "week1_laps": 420, "week2_laps": 334, "reliability": "excellent", "notes": "Fastest time of testing. Strong long-run pace."},
+    {"team": "Mercedes", "drivers": ["George Russell", "Kimi Antonelli"], "fastest_lap": 92.800, "total_laps": 817, "week1_laps": 422, "week2_laps": 395, "reliability": "good", "notes": "Most laps of any team. Strong foundation."},
+    {"team": "McLaren", "drivers": ["Lando Norris", "Oscar Piastri"], "fastest_lap": 93.100, "total_laps": 740, "week1_laps": 370, "week2_laps": 370, "reliability": "good", "notes": "Consistent mileage. Reigning champions."},
+    {"team": "Red Bull", "drivers": ["Max Verstappen", "Isack Hadjar"], "fastest_lap": 93.400, "total_laps": 680, "week1_laps": 340, "week2_laps": 340, "reliability": "good", "notes": "Verstappen critical of new regulations."},
+    {"team": "Williams", "drivers": ["Carlos Sainz", "Alex Albon"], "fastest_lap": 94.342, "total_laps": 790, "week1_laps": 422, "week2_laps": 368, "reliability": "good", "notes": "High mileage but pace still missing."},
+    {"team": "Racing Bulls", "drivers": ["Liam Lawson", "Arvid Lindblad"], "fastest_lap": 94.600, "total_laps": 720, "week1_laps": 320, "week2_laps": 400, "reliability": "good", "notes": "Lindblad completed 654 laps alone. Strong rookie."},
+    {"team": "Haas", "drivers": ["Esteban Ocon", "Ollie Bearman"], "fastest_lap": 94.800, "total_laps": 650, "week1_laps": 310, "week2_laps": 340, "reliability": "excellent", "notes": "Organised and efficient. Strong midfield contender."},
+    {"team": "Alpine", "drivers": ["Pierre Gasly", "Franco Colapinto"], "fastest_lap": 95.100, "total_laps": 600, "week1_laps": 290, "week2_laps": 310, "reliability": "average", "notes": "Midfield. Now using Mercedes power unit."},
+    {"team": "Audi", "drivers": ["Nico Hulkenberg", "Gabriel Bortoleto"], "fastest_lap": 95.400, "total_laps": 580, "week1_laps": 280, "week2_laps": 300, "reliability": "average", "notes": "First season as Audi works team."},
+    {"team": "Aston Martin", "drivers": ["Fernando Alonso", "Lance Stroll"], "fastest_lap": 96.200, "total_laps": 320, "week1_laps": 180, "week2_laps": 140, "reliability": "poor", "notes": "Nightmare pre-season. Honda reliability crisis. Only 6 laps on final day."},
+    {"team": "Cadillac", "drivers": ["Valtteri Bottas", "Sergio Perez"], "fastest_lap": 97.000, "total_laps": 450, "week1_laps": 220, "week2_laps": 230, "reliability": "good", "notes": "New team, smooth debut. Both drivers returning after year out."},
+]
